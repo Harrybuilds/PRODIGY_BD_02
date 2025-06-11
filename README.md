@@ -41,7 +41,7 @@ operations on a user's resource
 
 ### 1. clone the repository
 ```bash
-git clone https://github.com/yourusername/persistant_storage.git
+git clone https://github.com/Harrybuilds/Prodigy_BD_02.git
 cd persistant_storage ```
 
 
